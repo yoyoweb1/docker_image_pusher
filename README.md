@@ -50,7 +50,7 @@ registry.cn-hangzhou.aliyuncs.com 即 ALIYUN_REGISTRY<br>
 shrimp-images 即 ALIYUN_NAME_SPACE<br>
 alpine 即阿里云中显示的镜像名<br>
 
-### 修改镜像史称
+### 修改镜像名称
 
 # 从代理拉取镜像
 ```

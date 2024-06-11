@@ -50,6 +50,21 @@ registry.cn-hangzhou.aliyuncs.com 即 ALIYUN_REGISTRY<br>
 shrimp-images 即 ALIYUN_NAME_SPACE<br>
 alpine 即阿里云中显示的镜像名<br>
 
+### 修改镜像史称
+
+# 从代理拉取镜像
+```
+docker pull cr.zsm.io/docker.io/wbsu2003/yesplaymusic:latest
+```
+# 重命名镜像（非必须）
+```
+docker tag cr.zsm.io/docker.io/wbsu2003/yesplaymusic:latest wbsu2003/yesplaymusic:latest
+```
+# 删除代理镜像（非必须）
+```
+docker rmi cr.zsm.io/docker.io/wbsu2003/yesplaymusic:latest
+```
+
 ### 多架构
 阿里镜像服务个人版并不提供多架构功能，需要在images.txt中用 --platform=xxxxx手动指定镜像架构
 指定后的架构会以前缀的形式放在镜像名字前面

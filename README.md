@@ -27,7 +27,7 @@ https://cr.console.aliyun.com/<br>
 ### Fork本项目
 Fork本项目<br>
 进入您自己的项目，点击Action，启用Github Action功能
-配置环境变量，进入Settings->Secret and variables->Actions->New Repository secret
+### 配置环境变量，进入Settings->Secret and variables->Actions->New Repository secret
 ![](doc/配置环境变量.png)
 将上一步的 ALIYUN_NAME_SPACE，ALIYUN_REGISTRY_USER，ALIYUN_REGISTRY_PASSWORD，ALIYUN_REGISTRY
 的值配置成环境变量

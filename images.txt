@@ -4,3 +4,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 xiaoyaliu/alist:latest
 iyuucn/iyuuplus-dev:latest
+haroldli/xiaoya-tvbox:latest

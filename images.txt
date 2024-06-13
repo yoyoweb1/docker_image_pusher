@@ -5,3 +5,14 @@ xhofe/alist:latest
 xiaoyaliu/alist:latest
 iyuucn/iyuuplus-dev:latest
 haroldli/xiaoya-tvbox:latest
+gdy666/lucky:latest
+corentinth/it-tools:latest
+hslr/sun-panel:latest
+jeessy/ddns-go:latest
+jxxghp/moviepilot:latest
+linuxserver/heimdall:latest
+qdtoday/qd:latest
+wallabag/wallabag:latest
+whyour/qinglong:latest
+corentinth/it-tools:latest
+neilpang/acme.sh:latest
